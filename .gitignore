@@ -2,3 +2,4 @@ node_modules
 coverge
 .env
 .nyc_output
+.vscode/
